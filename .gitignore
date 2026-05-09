@@ -13,3 +13,4 @@ expo-app
 !.yarn/releases
 !.yarn/versions
 /.cursorrules
+structure.md
