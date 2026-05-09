@@ -6,3 +6,4 @@
 ./backend
 /.pnp
 .pnp.*
+.yarn/*
