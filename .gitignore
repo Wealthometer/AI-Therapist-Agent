@@ -9,3 +9,4 @@
 .yarn/*
 expo-app
 !.yarn/patches
+!.yarn/plugins
