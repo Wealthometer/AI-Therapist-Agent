@@ -8,3 +8,4 @@
 .pnp.*
 .yarn/*
 expo-app
+!.yarn/patches
