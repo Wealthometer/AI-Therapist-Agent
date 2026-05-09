@@ -11,3 +11,4 @@ expo-app
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
+!.yarn/versions
