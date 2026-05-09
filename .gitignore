@@ -12,3 +12,4 @@ expo-app
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+/.cursorrules
