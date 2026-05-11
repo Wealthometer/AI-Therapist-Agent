@@ -25,3 +25,4 @@ secrete.txt
 auto-commit.log
 # testing
 /coverage
+./.cursorrules
